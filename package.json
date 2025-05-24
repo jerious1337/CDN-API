@@ -1,0 +1,33 @@
+{
+  "name": "cdn-service-api",
+  "version": "1.0.0",
+  "description": "a content delivery service",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerious1337/cdn-service-api.git"
+  },
+  "author": "jerious1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerious1337/cdn-service-api/issues"
+  },
+  "homepage": "https://github.com/jerious1337/cdn-service-api#readme",
+  "devDependencies": {
+    "@types/cors": "^2.8.18",
+    "@types/express": "^5.0.2",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^22.15.21"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "multer": "^2.0.0",
+    "path": "^0.12.7"
+  }
+}
