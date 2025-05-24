@@ -1,2 +1,4 @@
 # CDN API (Content Delivery Network)
-cdn api, open source, made for my main project (opencord)
+CDN API, made for my main project (Opencord)
+
+## How to use:
