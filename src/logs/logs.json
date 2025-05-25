@@ -1,0 +1,17 @@
+[
+    { 
+        "file_name": "file-hash",
+        "file_path_name": "a-file.png",
+        "type": "attachment"
+    },
+    { 
+        "file_name": "file-2-hash",
+        "file_path_name": "a-file-2.png",
+        "type": "attachment"
+    },
+    { 
+        "file_name": "file-3-hash",
+        "file_path_name": "a-file-3.png",
+        "type": "attachment"
+    }
+]

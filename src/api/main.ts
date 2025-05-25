@@ -12,9 +12,6 @@ import cors from 'cors'
 
 const app = express()
 
-app.use(cors())
-app.use(express.json())
-
 // Dotenv config
 dotenv.config({ path: path.join(__dirname, '../../.env') })
 
@@ -30,8 +27,7 @@ const storage = multer.diskStorage({
         cb(null, ATTACHMENTS_DIR)
     },
     filename: (_, file, cb) => { // Change this if possible...
-        let prefix = Date.now() + '_' + Math.round(Math.random() * 1e9)
-        cb(null, prefix + path.extname(file.originalname) + '.png')
+        cb(null, file.filename)
     }
 })
 
