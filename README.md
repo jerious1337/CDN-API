@@ -52,4 +52,5 @@ npx ts-node src/api/main.ts
 ```
 
 ## Attachment logs file example:
-![image](https://github.com/user-attachments/assets/ccbaab0e-7771-4d28-85be-e2dae5597493)
+![image](https://github.com/user-attachments/assets/df8ec202-8ba3-422b-babc-5efe828aceea)
+
