@@ -1,14 +1,12 @@
-# LocalDatabase
-### A "Database" made with typescript, used in my main project (Opencord)
+# CDN API (Content Delivery Network)
+### A CDN API made with typescript, used in my main project (Opencord)
 
 ## Features:
 - Can share images
-- Edit queries
-- Delete queries
-- Add queries
+- Can store images
 
 ## How it works:
-Can search for objects, edit objects, etc (with json objects), using a .json file as a database (all locally)
+Users can uploads and get images from the API
 
 ## Dependencies used:
 - fs
