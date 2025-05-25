@@ -17,6 +17,8 @@ Users can uploads and get images from the API
 - crypto
 - express
 
+## How to Implement:
+
 ### Getting image<br>
 ```ts
 const image = await fetch('http://<DOMAIN-HOSTED>:<PORT-HOSTED>/attachment/<FILE-NAME>', {
