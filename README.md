@@ -1,5 +1,5 @@
 # CDN API (Content Delivery Network)
-### A CDN API made with typescript, used in my main project (Opencord)
+### A CDN API made with typescript
 
 ## Features:
 - Can share images
